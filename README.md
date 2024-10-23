@@ -25,3 +25,6 @@ Week 3: Dictionaries/Hashmaps and Sets/Hashsets – Date 29/10/2024 Time: 7:00PM
 Week 4:  Recursion and Sorting – Date 5/11/2024 Time: 7:00PM - 8:30PM -  Thursday - 7/11/2024  (Office hour)
 Week 5:  Trees – Date 12/11/2024 Time: 7:00PM - 8:30PM -  Thursday - 14/11/2024  (Office hour)
 Week 6:  Graphs – Date 1/911/2024 Time: 7:00PM - 8:30PM -  Thursday - 21/11/2024  (Office hour)
+
+TO DO
+READ 📚📚 & MAKE NOTES
